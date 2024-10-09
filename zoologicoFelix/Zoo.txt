@@ -1,0 +1,20 @@
+//Hacer un menú de navegación en HTML	
+<header>
+    <nav>
+        <ul>
+		<li><a href="#">Inicio</a></li>
+		<li><a href="#">Tutoriales</a></li>
+		<li><a href="#">Cursos</a></l>
+		<li><a href="#">Bootcamps</a></li>
+		<li><a href="#">Contacto</a></li>
+	 </ul>
+    </nav>
+</header>
+
+
+<label for="dog-names">Choose a dog name:</label>
+<select name="dog-names" id="dog-names"</select>
+<option value="rigatoni">Rigatoni</option>
+<option value="tony">Tony</option>
+<option value="max">Max</option>
+<option value="pickles">Pickles</option>
